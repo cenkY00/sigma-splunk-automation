@@ -1,0 +1,1 @@
+# sigma-splunk-automation
